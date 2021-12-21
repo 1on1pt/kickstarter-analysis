@@ -11,5 +11,5 @@ The purpose of this project is to present an analysis of Kickstarter funding cam
 
 ## Analysis and Challenges
 
-# Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date
 
