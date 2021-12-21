@@ -8,3 +8,8 @@ A comprehensive analysis of Kickstarter campaigns was completed that included th
 ### Purpose
 
 The purpose of this project is to present an analysis of Kickstarter funding campaigns based on **launch date** and **funding goal outcomes**.
+
+## Analysis and Challenges
+
+# Analysis of Outcomes Based on Launch Date
+
