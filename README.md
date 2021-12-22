@@ -15,7 +15,7 @@ The purpose of this project is to present an analysis of Kickstarter funding cam
 
 ### Analysis of Outcomes Based on Launch Date
 
-
+The **Analysis of Outcomes Based on Launch Date** was created first by adding a new column in the workbook, "Years", and then extracting the year from the "Date Created Conversion" column.  A new worksheet, *"Theater Outcomes by Launch Date"* was added along with a pivot table from the *"Kickstarter"* worksheet.  The pivot table was filtered for "Parent Category" and "Years" with the column labels filtered to show "successful", "failed", and "canceled".
 
 ### Analysis of Outcomes Based Goals
 
