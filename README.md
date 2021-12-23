@@ -35,7 +35,10 @@ The **Analysis of Outcomes Based Goals** was first created by adding a new works
 * Percentage Failed
 * Percentage Canceled
 
-Dollar amount ranges were entered into the "Goal" column so projects could be grouped based on their goal amount.  The COUNTIFS() function was used to populate data in the "Number Successful", "Number Failed", and "Number Canceled" columns by using filtered data from the Kickstarter worksheet "outcome" column, "goal" amount column, and "Subcategory" column using "plays" as the criteria.  
+Dollar amount ranges were entered into the "Goal" column so projects could be grouped based on their goal amount.  The COUNTIFS() function was then used to populate data in the "Number Successful", "Number Failed", and "Number Canceled" columns by using filtered data from the Kickstarter worksheet "outcome" column, "goal" amount column, and "Subcategory" column using "plays" as the criteria.  The SUM() function was used to determine the value for the "Total Projects" column using data from the "Number Successful", "Number Failed", and "Number Canceled" columns.  The columns of "Percentage Successful", "Percentage Failed", and "Percentage Canceled" were then populated.  The line chart below was then created to visualize the relationship between the goal-amount ranges and percentage successful, failed, and canceled theater play funding projects.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/94148420/147176154-c024d5be-e50f-4db6-aa60-adffd7be2ef5.png)
+
         
 
 ### Challenges and Difficulties Encountered
