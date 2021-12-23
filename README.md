@@ -50,7 +50,7 @@ For the **Analysis of Outcomes Based on Launch Date**, one challenge/difficulty 
 ### Conclusions: Analysis of Outcomes Based on Launch Date
 1. May was the best month reaching 111 successful funding campaigns, followed by June with 100 successful campaigns.
 2. December was the least "successful" month achieving only 37 successful campaigns, but this was still more successful than the 35 December failed campaigns.
-3. Overall, there were many more "successful" funding campaigns than those that "failed".
+3. Overall, there were many more "successful" (839) funding campaigns than those that "failed" (493).
 4. The general trending of "successful" and "failed" funding campaigns mirrored each other.
 
 ### Conclusions: Analysis of Outcomes Based on Goals
