@@ -28,12 +28,14 @@ The **Analysis of Outcomes Based Goals** was first created by adding a new works
 
 * Goal
 * Number Successful
-        * Number Failed
-        * Number Canceled
-        * Total Projects
-        * Percentage Successful
-        * Percentage Failed
-        * Percentage Canceled
+* Number Failed
+* Number Canceled
+* Total Projects
+* Percentage Successful
+* Percentage Failed
+* Percentage Canceled
+
+
         
 
 ### Challenges and Difficulties Encountered
