@@ -17,7 +17,7 @@ The purpose of this project is to present an analysis of Kickstarter funding cam
 
 ### Analysis of Outcomes Based on Launch Date
 
-The **Analysis of Outcomes Based on Launch Date** was created first by adding a new column in the workbook, "Years", and then extracting the year from the "Date Created Conversion" column using the =YEAR() function.  For example, the cell converting 12/10/2015 would look like this:
+The **Analysis of Outcomes Based on Launch Date** was created first by adding a new column in the workbook, "Years", and then extracting the year from the "Date Created Conversion" column using the =YEAR() function.  For example, the cell converting the date 12/10/2015 would look like this:
 
 ![image](https://user-images.githubusercontent.com/94148420/147250278-a7ed1876-5576-40eb-871a-6b2c76de14ba.png)
 
