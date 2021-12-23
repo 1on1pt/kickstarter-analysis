@@ -55,6 +55,7 @@ For the **Analysis of Outcomes Based on Launch Date**, one challenge/difficulty 
 
 ### Conclusions: Analysis of Outcomes Based on Goals
 1. The most successful funding campaigns (75.8%) were those with a goal of less than $1000, followed by those with a goal of $1000 to $4999 (72.2%).
+2. The least successful funding campaigns (0.0%) were those with a goal of $45,000 to $49,000, but of note there were 2 (12.5%) successful funding campaigns that were greater than $50,000.
 
 ### Limitations of the Kickstarter Dataset
 1. Timeframe only covers those funding campaigns from 2010 to 2017, therefore the data is not current.
