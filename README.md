@@ -46,3 +46,20 @@ Dollar amount ranges were entered into the "Goal" column so projects could be gr
 For the **Analysis of Outcomes Based on Launch Date**, one challenge/difficulty was encountered.  After adding the "Years" column on the "Kickstarter" worksheet and then using the YEARS() function, incorrect values were initially populating the "Years" column cells and the error appeared to be related to how the cell was formatted.  At first, formatting via the Excel ribbon was attempted, but was not successful.  Ultimately, formatting the cell by right-clicking on the cell and using the "Format Cells..." option in the pop-up corrected the problem.
 
 ## Results
+
+### Conclusions: Analysis of Outcomes Based on Launch Date
+1. May was the best month reaching 111 successful funding campaigns, followed by June with 100 successful campaigns.
+2. December was the least "successful" month achieving only 37 successful campaigns, but this was still more successful than the 35 December failed campaigns.
+3. Overall, there were many more "successful" funding campaigns than those that "failed".
+4. The general trending of "successful" and "failed" funding campaigns mirrored each other.
+
+### Conclusions: Analysis of Outcomes Based on Goals
+1. The most successful funding campaigns (75.8%) were those with a goal of less than $1000, followed by those with a goal of $1000 to $4999 (72.2%).
+
+### Limitations of the Kickstarter Dataset
+1. Timeframe only covers those funding campaigns from 2010 to 2017, therefore the data is not current.
+
+### Other Possible Tables and/or Graphs to Consider
+1. Use the box and whiskers graph to compare US theater play goal vs. pledge.
+2. Use the box and whiskers graph to compare US theater play successful vs. failed.
+3. Use the bar graph to show theater play outcomes (successful, failed, and canceled).
