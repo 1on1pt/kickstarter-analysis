@@ -24,7 +24,16 @@ The **Analysis of Outcomes Based on Launch Date** was created first by adding a 
 
 ### Analysis of Outcomes Based Goals
 
-
+The **Analysis of Outcomes Based Goals** was first created by adding a new worksheet, *"Outcomes Based on Goals"* to the Kickstarter_Challenge workbook.  On the new worksheet, the following columns were created to hold the data:
+        *Goal
+        *Number Successful
+        *Number Failed
+        *Number Canceled
+        *Total Projects
+        *Percentage Successful
+        *Percentage Failed
+        *Percentage Canceled
+        
 
 ### Challenges and Difficulties Encountered
 
