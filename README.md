@@ -43,6 +43,6 @@ Dollar amount ranges were entered into the "Goal" column so projects could be gr
 
 ### Challenges and Difficulties Encountered
 
-For the **Analysis of Outcomes Based on Launch Date**, one challenge/difficulty was encountered.  After adding the "Years" column on the "Kickstarter" worksheet and using the YEARS() function the, incorrect values where initially populating the "Years" column cells and the error appeared to be related to how the cell was formatted.  At first, formatting via the Excel ribbon was attempted, but was not successful.  Ultimately, formatting the cell by right-clicking on the cell and using the "Format Cells..." option in the pop-up corrected the problem.
+For the **Analysis of Outcomes Based on Launch Date**, one challenge/difficulty was encountered.  After adding the "Years" column on the "Kickstarter" worksheet and then using the YEARS() function, incorrect values were initially populating the "Years" column cells and the error appeared to be related to how the cell was formatted.  At first, formatting via the Excel ribbon was attempted, but was not successful.  Ultimately, formatting the cell by right-clicking on the cell and using the "Format Cells..." option in the pop-up corrected the problem.
 
 ## Results
