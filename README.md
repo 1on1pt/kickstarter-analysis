@@ -24,7 +24,7 @@ The **Analysis of Outcomes Based on Launch Date** was created first by adding a 
 
 ### Analysis of Outcomes Based Goals
 
-The **Analysis of Outcomes Based Goals** was first created by adding a new worksheet, *"Outcomes Based on Goals"* to the Kickstarter_Challenge workbook.  On the new worksheet, the following columns were created to hold the data:
+The **Analysis of Outcomes Based Goals** was first created by adding a new worksheet, *"Outcomes Based on Goals"* to the Kickstarter_Challenge workbook.  On the new worksheet, the following columns were created:
 
 * Goal
 * Number Successful
@@ -35,7 +35,7 @@ The **Analysis of Outcomes Based Goals** was first created by adding a new works
 * Percentage Failed
 * Percentage Canceled
 
-
+Dollar amount ranges were entered into the "Goal" column so projects could be grouped based on their goal amount.  The COUNTIFS() function was used to populate data in the "Number Successful", "Number Failed", and "Number Canceled" columns by using filtered data from the Kickstarter worksheet "outcome" column, "goal" amount column, and "Subcategory" column using "plays" as the criteria.  
         
 
 ### Challenges and Difficulties Encountered
